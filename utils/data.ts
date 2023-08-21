@@ -29,6 +29,11 @@ export const data: Data[] = [
 				image: "/hashnod.png",
 			},
 			{
+				href: "https://codepen.io/issam-ab",
+				title: "CodePen",
+				image: "/codepen.jpg",
+			},
+			{
 				href: "https://www.instagram.com/aissam.afdl/",
 				title: "Instagram",
 				image: "/instagram.jpg",
