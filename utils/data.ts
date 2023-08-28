@@ -9,6 +9,11 @@ export const data: Data[] = [
 				image: "/issam.png",
 			},
 			{
+				href: "my-resume.pdf",
+				title: "My Resume",
+				image: "/resume.png",
+			},
+			{
 				href: "https://www.linkedin.com/in/issam-aboulfadl/",
 				title: "Linkedin",
 				image: "/linkdin.png",
